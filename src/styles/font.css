@@ -1,0 +1,6 @@
+
+ @font-face { font-style : normal; src: url("assets/fonts/SourceSansProRegular.ttf"); font-family : "Source Sans Pro"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/ActorRegular.ttf"); font-family : "Actor"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/InterBold.ttf"); font-family : "Inter"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/SourceSansProSemiBold.ttf"); font-family : "Source Sans Pro"; font-weight : 600;  }
