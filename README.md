@@ -1,4 +1,4 @@
-# Company Intranet
+# Export System Logs
 This Export system logs extend Sentry and ClickUp functionality  By creating a React Web app using a [Dhiwise](dhiwise.com), Figma design, Sentry API, and ClickUp API.
 
 
