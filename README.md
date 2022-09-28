@@ -32,7 +32,7 @@ List of Issues/Events
 
 ![sentry1](https://user-images.githubusercontent.com/112460608/189822505-0ea9c9a7-366d-4c97-9f18-91ffd726a3e7.png)
 ![sentry2](https://user-images.githubusercontent.com/112460608/189822521-8a4396f1-a659-4943-9791-031a0dc286af.png)
-![sentry3](https://user-images.githubusercontent.com/112460608/189822535-c4a4a40c-a2dc-46a4-b2a3-4771be0a35b7.png)
+![clicksentry](https://user-images.githubusercontent.com/112460608/192701239-c7820db5-8269-4fb2-9d5b-2f62c02c20cd.png)
 
 # Setup
 
